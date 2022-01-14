@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EdineiSantos\\OneDrive - Brasil Clin (1)\\Git\\ProjetoGit\\ProjetoGit.csproj",
+      "projectUniqueName": "C:\\Users\\EdineiSantos\\OneDrive - Brasil Clin (1)\\Git\\Projeto1\\ProjetoGit\\ProjetoGit.csproj",
       "projectName": "ProjetoGit",
-      "projectPath": "C:\\Users\\EdineiSantos\\OneDrive - Brasil Clin (1)\\Git\\ProjetoGit\\ProjetoGit.csproj",
+      "projectPath": "C:\\Users\\EdineiSantos\\OneDrive - Brasil Clin (1)\\Git\\Projeto1\\ProjetoGit\\ProjetoGit.csproj",
       "packagesPath": "C:\\Users\\EdineiSantos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EdineiSantos\\OneDrive - Brasil Clin (1)\\Git\\ProjetoGit\\obj\\",
+      "outputPath": "C:\\Users\\EdineiSantos\\OneDrive - Brasil Clin (1)\\Git\\Projeto1\\ProjetoGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

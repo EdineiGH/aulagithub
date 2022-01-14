@@ -12,3 +12,17 @@ C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\ProjetoGit\obj\Debug\netcor
 C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.dll
 C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.pdb
 C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.genruntimeconfig.cache
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\bin\Debug\netcoreapp3.1\ProjetoGit.exe
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\bin\Debug\netcoreapp3.1\ProjetoGit.deps.json
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\bin\Debug\netcoreapp3.1\ProjetoGit.runtimeconfig.json
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\bin\Debug\netcoreapp3.1\ProjetoGit.runtimeconfig.dev.json
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\bin\Debug\netcoreapp3.1\ProjetoGit.dll
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\bin\Debug\netcoreapp3.1\ProjetoGit.pdb
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.csproj.AssemblyReference.cache
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.AssemblyInfoInputs.cache
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.AssemblyInfo.cs
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.csproj.CoreCompileInputs.cache
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.dll
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.pdb
+C:\Users\EdineiSantos\OneDrive - Brasil Clin (1)\Git\Projeto1\ProjetoGit\obj\Debug\netcoreapp3.1\ProjetoGit.genruntimeconfig.cache
